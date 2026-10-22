@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+.npm-cache/
+playwright-report/
+test-results/
+package.before-implementation.json
